@@ -1,3 +1,3 @@
-Gitt is a version contrl system.
+Gitt is a distrubutict version contrl system.
 Git is free software.
 
